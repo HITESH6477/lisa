@@ -1,0 +1,31 @@
+<svg width="67" height="47" viewBox="0 0 67 47" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+        d="M23.958 7.38994C26.6089 6.50478 25.0625 2.59531 23.958 0.751221C14.2383 0.751221 8.12652 6.65231 6.28559 9.60285C-2.55061 23.7655 1.13114 35.4201 4.07654 39.4771C14.68 53.6397 28.7593 42.7512 30.5851 37.2642C35.8869 21.3313 21.7489 15.8728 14.0173 15.1351C14.0173 8.49639 20.6444 8.49639 23.958 7.38994Z"
+        fill="url(#paint0_linear_1_673)" stroke="url(#paint1_linear_1_673)" />
+    <path
+        d="M57.958 7.38994C60.6089 6.50478 59.0625 2.59531 57.958 0.751221C48.2383 0.751221 42.1265 6.65231 40.2856 9.60285C31.4494 23.7655 35.1311 35.4201 38.0765 39.4771C48.68 53.6397 62.7593 42.7512 64.5851 37.2642C69.8869 21.3313 55.7489 15.8728 48.0173 15.1351C48.0173 8.49639 54.6444 8.49639 57.958 7.38994Z"
+        fill="url(#paint2_linear_1_673)" stroke="url(#paint3_linear_1_673)" />
+    <defs>
+        <linearGradient id="paint0_linear_1_673" x1="16.2461" y1="0.751221" x2="16.7461"
+            y2="43.2512" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F9227D" />
+            <stop offset="1" stop-color="#1F1BEA" />
+        </linearGradient>
+        <linearGradient id="paint1_linear_1_673" x1="24.7461" y1="-17.2488" x2="18.2461"
+            y2="68.2512" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#C22097" />
+            <stop offset="1" stop-color="#3E1CD9" />
+        </linearGradient>
+        <linearGradient id="paint2_linear_1_673" x1="50.2461" y1="0.751221" x2="50.7461"
+            y2="43.2512" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F9227D" />
+            <stop offset="1" stop-color="#1F1BEA" />
+        </linearGradient>
+        <linearGradient id="paint3_linear_1_673" x1="58.7461" y1="-17.2488" x2="52.2461"
+            y2="68.2512" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#C22097" />
+            <stop offset="1" stop-color="#3E1CD9" />
+        </linearGradient>
+    </defs>
+</svg>
+    
